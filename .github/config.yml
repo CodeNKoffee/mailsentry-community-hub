@@ -1,0 +1,61 @@
+# Configuration for MailSentry Community Hub
+
+# Welcome message for new issues
+newIssueWelcomeComment: >
+  Thank you for opening an issue in the MailSentry Community Hub! 👋 
+  
+  Our team will review your submission shortly. While you wait, please ensure you've provided all the necessary details to help us address your report or suggestion efficiently.
+
+# Welcome message for new pull requests
+newPRWelcomeComment: >
+  Thank you for your contribution to the MailSentry Community Hub! 🚀
+  
+  While we primarily use this repository for issue tracking, we appreciate community contributions to our documentation and templates. Our team will review your pull request soon.
+
+# Configuration for first-time contributors
+firstPRMergeComment: >
+  Congratulations on your first contribution to the MailSentry Community Hub being merged! 🎉
+  
+  We value your input and look forward to your continued involvement in our community.
+
+# Label settings 
+labelConfigs:
+  - name: "bug"
+    color: "d73a4a"
+    description: "Something isn't working as expected"
+  
+  - name: "feature-request"
+    color: "0075ca"
+    description: "New feature or enhancement suggestion"
+  
+  - name: "documentation"
+    color: "0075ca"
+    description: "Improvements or additions to documentation"
+  
+  - name: "triage"
+    color: "d4c5f9"
+    description: "Issue needs review by maintainers"
+  
+  - name: "confirmed"
+    color: "0e8a16"
+    description: "Issue confirmed by maintainers"
+  
+  - name: "in-progress"
+    color: "fbca04"
+    description: "Work in progress"
+  
+  - name: "pending-release"
+    color: "1d76db"
+    description: "Fixed but not yet released"
+  
+  - name: "wontfix"
+    color: "ffffff"
+    description: "This will not be worked on"
+  
+  - name: "duplicate"
+    color: "cfd3d7"
+    description: "This issue or pull request already exists"
+  
+  - name: "enhancement"
+    color: "a2eeef"
+    description: "Improvement to existing functionality" 
