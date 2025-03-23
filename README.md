@@ -1,9 +1,6 @@
 # MailSentry Community Hub
 
-<div align="center">
-  <img src="https://i.imgur.com/PLACEHOLDER.png" alt="MailSentry Logo" width="200">
-  <h3>Report issues, suggest features, and connect with the MailSentry community</h3>
-</div>
+![MailSentry Logo](/assets/mailsentry-logo.svg)
 
 ## 👋 Welcome to the MailSentry Community Hub
 
